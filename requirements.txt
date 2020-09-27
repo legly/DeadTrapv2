@@ -1,0 +1,5 @@
+google == "3.0.0"
+pyfiglet == "0.8.post1"
+Pillow == "7.2.0"
+bs4 == "0.0.1"
+argparse == "1.4.0"
