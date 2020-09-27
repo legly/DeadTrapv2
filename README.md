@@ -24,4 +24,4 @@ python3 main.py -n <your_number> -s <scanner> -o -r
 ```
 
 ### Lincense
-[![license](https://img.shields.io/github/license/Chr0m0s0m3s/DeadTrap.svg?style=flat-square)](https://github.com/Chr0m0s0m3s/DeadTrap/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/Chr0m0s0m3s/DeadTrapv2.svg?style=flat-square)](https://github.com/Chr0m0s0m3s/DeadTrapv2/blob/master/LICENSE)
